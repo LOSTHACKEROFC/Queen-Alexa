@@ -8,16 +8,16 @@
 </p>
 <div align="center">
   <p align="center">
-  <a href="https://youtu.be/BcMIibIUmHc"><img src="https://media.giphy.com/media/Uhl43Qa5QbhKglX8DX/giphy.gif" alt="GIF" width="128" height="128"/>
+  <a href="https://youtu.be/c/chiragyoutuber"><img src="https://media.giphy.com/media/Uhl43Qa5QbhKglX8DX/giphy.gif" alt="GIF" width="128" height="128"/>
 </p>g
 WhatsApp Bot
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HYPER-MOD/Queen-Alexa)
 # ```ALEXA-BUG-BOT```
 <p align="center">
-<a href="https://github.com/HYPER-MOD/followers"><img title="Followers" src="https://img.shields.io/github/followers/HYPER-MOD?color=red&style=flat-square"></a>
-<a href="https://github.com/HYPER-MOD/Queen-Alexa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/HYPER-MOD/bug-bot?color=blue&style=flat-square"></a>
-<a href="https://github.com/HYPER-MOD/Queen-Alexa/network/members"><img title="Forks" src="https://img.shields.io/github/forks/HYPER-MOD/bug-bot?color=red&style=flat-square"></a>
+<a href="https://github.com/LOSTHACKEROFC/followers"><img title="Followers" src="https://img.shields.io/github/followers/LOSTHACKEROFC?color=red&style=flat-square"></a>
+<a href="https://github.com/LOSTHACKEROFC/Queen-Alexa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/CHIRAG YOUTUBER/bug-bot?color=blue&style=flat-square"></a>
+<a href="https://github.com/LOSTHACKEROFC/Queen-Alexa/network/members"><img title="Forks" src="https://img.shields.io/github/forks/HYPER-MOD/bug-bot?color=red&style=flat-square"></a>
 <a href="https://github.com/HYPER-MOD/Queen-Alexa/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/HYPER-MOD/bug-bot?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/HYPER-MOD/Queen-Alexa"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
 <a href="https://github.com/HYPER-MOD/Queen-Alexa/"><img title="Size" src="https://img.shields.io/github/repo-size/zeeoneofc/Alphabot7?style=flat-square&color=green"></a>
@@ -35,13 +35,13 @@ WhatsApp Bot
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/session.json#L1)
+[`Click Here`](https://github.com/LOSTHACKEROFC/Queen-Alexa/blob/main/session.json#L1)
 
 ## `SETTING`
 
-- Owner number [Here](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/settings.json#L4)
-- Owner Name [Here](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/settings.json#L14)
-- Bot Name [Here](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/settings.json#L15)
+- Owner number [Here](https://github.com/LOSTHACKEROFC/Queen-Alexa/blob/main/settings.json#L4)
+- Owner Name [Here](https://github.com/LOSTHACKEROFC/Queen-Alexa/blob/main/settings.json#L14)
+- Bot Name [Here](https://github.com/LOSTHACKEROFC/Queen-Alexa/blob/main/settings.json#L15)
 
 ## `CHANGE DYNO`
 
@@ -50,17 +50,17 @@ Off in web ny | ඔෆ් කරන්න web එක | turn off web button.
 ----------
 
 <p align="center">
-  <a href="https://youtube.com/c/HYPERMOD"><img src="https://i.ibb.co/TPqc8cv/Screenshot-2021-10-14-12-00-45-610-com-android-chrome.jpg" />
+  <a href="youtu.be/c/chiragyoutuber"><img src="https://i.ibb.co/TPqc8cv/Screenshot-2021-10-14-12-00-45-610-com-android-chrome.jpg" />
 </p>
 
 ## ```HOW TO DEPLOY```
 
-[`Click Here For Tutorial`](https://youtu.be/BcMIibIUmHc)<br>
+[`Click Here For Tutorial`](https://youtu.be/c/chiragyoutuber)<br>
 
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/BcMIibIUmHc"><img src="https://i.ibb.co/P18NNM2/20211024-191503.jpg" />
+  <a href="https://youtu.be/c/chiragyoutuber"><img src="https://i.ibb.co/P18NNM2/20211024-191503.jpg" />
 </p>
 
 
